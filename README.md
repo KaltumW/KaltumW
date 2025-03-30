@@ -8,12 +8,6 @@ Hi, I’m Kaltum! I’m a passionate developer with a knack for creating efficie
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaltumwarsame/) 
 
-git add README.md
-git commit -m "add personalized README"
-git push origin main
-
-
-
 
 
 
