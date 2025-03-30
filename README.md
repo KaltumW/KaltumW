@@ -1,4 +1,4 @@
-## About Me :smile:
+## About Me 👩‍💻:
 Hi, I’m Kaltum! I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
 - :seedling: I’m currently exploring **Programming** and **Web editing**.
 - :handshake: I’m looking to collaborate on **beginner Python projects** and **innovative web applications**.
